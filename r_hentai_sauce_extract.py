@@ -11,10 +11,10 @@ import requests
 from ClipboardWatcher import ClipboardWatcher, log_clipboard
 from bs4 import BeautifulSoup
 
-REDDIT_USERNAME = "kyaa_baka_senpai"
-REDDIT_PASSWORD = "FPerHQLUC2xJir"
-REDDIT_CLIENT_ID = "U758_44U_agvVQ"
-REDDIT_CLIENT_SECRET = "aNOhK6X_veJdstoOLN1NriPW1jQi9g"
+REDDIT_USERNAME = ""
+REDDIT_PASSWORD = ""
+REDDIT_CLIENT_ID = ""
+REDDIT_CLIENT_SECRET = ""
 
 
 def parse_clipboard(url: str):
